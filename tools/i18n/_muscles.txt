@@ -1,0 +1,244 @@
+Abdominal part of pectoralis major muscle
+Abductor digiti minimi of foot
+Abductor digiti minimi of hand
+Abductor hallucis
+Abductor pollicis brevis
+Abductor pollicis longus
+Acromial part of deltoid muscle
+Adductor brevis
+Adductor longus
+Adductor magnus
+Adductor minimus
+Anconeus muscle
+Anterior belly of digastric muscle
+Ary-epiglottic part of oblique arytenoid muscle
+Ascending part of trapezius muscle
+Brachialis muscle
+Brachioradialis muscle
+Bucinator
+Calcaneal tendon
+Clavicular head of pectoralis major muscle
+Clavicular part of deltoid muscle
+Coccygeus muscle
+Common tendinous ring
+Coracobrachialis muscle
+Corrugator supercilii
+Deep head of flexor pollicis brevis
+Deep head of pronator teres
+Deep part of masseter
+Depressor anguli oris
+Depressor labii inferioris
+Depressor septi nasi
+Descending part of trapezius muscle
+Diaphragm
+Dorsal interossei muscles of foot
+Dorsal interossei muscles of hand
+Dorsal parts of lateral intertransversarii lumborum muscles
+Extensor carpi radialis brevis
+Extensor carpi radialis longus
+Extensor digiti minimi
+Extensor digitorum
+Extensor digitorum brevis
+Extensor digitorum longus
+Extensor hallucis brevis
+Extensor hallucis longus
+Extensor indicis
+Extensor pollicis brevis
+Extensor pollicis longus
+External abdominal oblique muscle
+External anal sphincter
+External intercostal muscles
+External part of thyro-arytenoid muscle
+Fibularis brevis muscle
+Fibularis longus muscle
+Fibularis tertius muscle
+Flexor carpi radialis
+Flexor digiti minimi of foot
+Flexor digiti minimi of hand
+Flexor digitorum brevis
+Flexor digitorum longus
+Flexor digitorum profundus
+Flexor hallucis longus
+Flexor pollicis longus
+Frontalis muscle
+Genioglossus muscle
+Geniohyoid muscle
+Gluteus maximus muscle
+Gluteus medius muscle
+Gluteus minimus muscle
+Gracilis muscle
+Humeral head of extensor carpi ulnaris
+Humeral head of flexor carpi ulnaris
+Humero-ulnar head of flexor digitorum superficialis
+Hyoglossus muscle
+Iliacus muscle
+Iliococcygeus muscle
+Iliocostalis colli muscle
+Iliocostalis lumborum muscle
+Iliocostalis thoracis muscle
+Iliopectineal arch
+Inferior gemellus muscle
+Inferior head of lateral pterygoid muscle
+Inferior oblique muscle
+Inferior pharyngeal constrictor
+Inferior rectus muscle
+Inferior tarsus
+Infraspinatus muscle
+Inguinal ligament
+Innermost intercostal muscles
+Intermediate tendon of digastric muscle
+Intermuscular gluteal bursae
+Internal abdominal oblique muscle
+Internal intercostal muscles
+Interspinales colli muscles
+Interspinales lumborum muscles
+Interspinales thoracis muscles
+Lateral crico-arytenoid muscle
+Lateral head of flexor hallucis brevis
+Lateral head of gastrocnemius
+Lateral head of triceps brachii
+Lateral rectus muscle
+Latissimus dorsi muscle
+Levator anguli oris
+Levator labii superioris
+Levator nasolabialis
+Levator palpebrae superioris
+Levator scapulae
+Levatores breves costarum
+Levatores longi costarum
+Long head of biceps brachii
+Long head of biceps femoris
+Long head of triceps brachii
+Longissimus capitis muscle
+Longissimus colli muscle
+Longissimus thoracis muscle
+Longus capitis muscle
+Longus colli muscle
+Lumbrical muscles of foot
+Lumbrical muscles of hand
+Medial head of flexor hallucis brevis
+Medial head of gastrocnemius
+Medial head of triceps brachii
+Medial pterygoid muscle
+Medial rectus muscle
+Mentalis muscle
+Middle pharyngeal constrictor
+Multifidus colli muscle
+Multifidus lumborum muscle
+Multifidus thoracis muscle
+Mylohyoid muscle
+Nasalis muscle
+Oblique head of adductor hallucis
+Oblique head of adductor pollicis
+Oblique part of cricothyroid muscle
+Obliquus inferior capitis muscle
+Obliquus superior capitis muscle
+Obturator externus
+Obturator internus
+Occipitalis muscle
+Omohyoid muscle
+Opponens digiti minimi muscle of foot
+Opponens digiti minimi muscle of hand
+Opponens pollicis muscle
+Orbicularis oris muscle
+Orbital part of orbicularis oculi
+Palatopharyngeus muscle
+Palmar interossei muscles
+Palmaris longus muscle
+Palpebral part of orbicularis oculi
+Pectineus muscle
+Pectoralis minor muscle
+Piriformis muscle
+Plantar interossei muscles
+Plantaris muscle
+Platysma
+Popliteus muscle
+Posterior belly of digastric muscle
+Posterior crico-arytenoid muscle
+Procerus muscle
+Pronator quadratus
+Psoas major
+Pubo-analis muscle
+Pubococcygeus muscle
+Pyramidalis muscle
+Quadratus femoris muscle
+Quadratus lumborum muscle
+Quadratus plantae muscle
+Radial head of flexor digitorum superficialis
+Rectus abdominis muscle
+Rectus anterior capitis muscle
+Rectus femoris muscle
+Rectus lateralis capitis muscle
+Rectus posterior major capitis muscle
+Rectus posterior minor capitis muscle
+Rhomboid major muscle
+Rhomboid minor muscle
+Risorius muscle
+Rotatores
+Sartorius muscle
+Scalenus anterior muscle
+Scalenus medius muscle
+Scalenus posterior muscle
+Scapular spinal part of deltoid muscle
+Semimembranosus muscle
+Semispinalis colli muscle
+Semispinalis thoracis muscle
+Semitendinosus muscle
+Serratus anterior muscle
+Serratus posterior inferior muscle
+Serratus posterior superior muscle
+Short head of biceps brachii
+Short head of biceps femoris
+Soleus muscle
+Spinalis capitis muscle
+Spinalis colli muscle
+Spinalis thoracis muscle
+Splenius capitis muscle
+Splenius colli muscle
+Sternocleidomastoid muscle
+Sternocostal head of pectoralis major muscle
+Sternohyoid muscle
+Sternothyroid muscle
+Straight part of cricothyroid muscle
+Stylohyoid muscle
+Stylopharyngeus muscle
+Subclavius muscle
+Subscapularis muscle
+Superficial head of flexor pollicis brevis
+Superficial head of pronator teres
+Superficial part of masseter
+Superficial transverse metacarpal ligament
+Superficial transverse metatarsal ligament
+Superior gemellus muscle
+Superior head of lateral pterygoid muscle
+Superior oblique muscle
+Superior pharyngeal constrictor
+Superior rectus muscle
+Superior tarsus
+Supinator
+Supraspinatus muscle
+Temporalis muscle
+Temporoparietalis muscle
+Tendon of extensor digitorum longus
+Tensor fasciae latae
+Teres major muscle
+Teres minor muscle
+Thyro-epiglottic part of thyro-arytenoid muscle
+Thyrohyoid muscle
+Tibialis anterior muscle
+Tibialis posterior muscle
+Transverse arytenoid muscle
+Transverse head of adductor hallucis
+Transverse head of adductor pollicis
+Transverse part of trapezius muscle
+Transversus abdominis muscle
+Transversus thoracis muscle
+Trochlea of superior oblique muscle
+Ulnar head of extensor carpi ulnaris
+Ulnar head of flexor carpi ulnaris
+Vastus intermedius muscle
+Vastus lateralis muscle
+Vastus medialis muscle
+Ventral parts of lateral intertransversarii lumborum muscles
+Zygomaticus major muscle
+Zygomaticus minor muscle

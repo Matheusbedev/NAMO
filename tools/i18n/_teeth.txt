@@ -1,0 +1,14 @@
+Lower canine
+Lower first molar tooth
+Lower first premolar
+Lower lateral incisor
+Lower medial incisor
+Lower second molar tooth
+Lower second premolar
+Upper canine
+Upper first molar tooth
+Upper first premolar
+Upper lateral incisor
+Upper medial incisor
+Upper second molar tooth
+Upper second premolar

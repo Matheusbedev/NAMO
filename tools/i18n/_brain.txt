@@ -1,0 +1,174 @@
+Accessory nucleus of oculomotor nerve
+Amygdaloid body
+Angular gyrus
+Anterior cochlear nucleus
+Anterior commissure
+Anterior corticospinal tract
+Anterior fasciculus proprius
+Anterior horn of spinal cord
+Anterior occipital sulcus
+Anterior quadrangular lobule
+Anterior root of spinal nerve
+Anterior spinocerebellar tract
+Anterior spinothalamic tract
+Aqueduct of midbrain
+Auditory tube
+Base of peduncle
+Biventral lobule
+Calcarine sulcus
+Cauda equina
+Caudate nucleus
+Central canal'
+Central lobule
+Central sulcus
+Choroid plexus
+Cingulate gyrus Posteroventral part
+Cingulate gyrus and sulcus Middle anterior part
+Cingulate gyrus and sulcus Middle posterior part
+Cingulate gyrus and sulcus Posterior dorsal part
+Cingulate sulcus Marginal part
+Circular sulcus of insula
+Collateral sulcus
+Cornea
+Corpus callosum
+Culmen
+Cuneate fasciculus
+Cuneus
+Declive
+Falx cerebri
+Flocculus
+Folium of vermis
+Fornix
+Fourth ventricle
+Globus pallidus
+Gracile fasciculus
+Gracile lobule
+Habenula
+Hippocampal commissure
+Hippocampus
+Hypothalamus
+Inferior colliculus
+Inferior frontal sulcus
+Inferior occipital gyrus and sulcus
+Inferior salivatory nucleus
+Inferior semilunar lobule
+Inferior temporal gyrus
+Inferior temporal sulcus
+Insula Subcentral gyrus and ant. and post. sulci
+Intermediolateral nucleus
+Intermediomedial nucleus
+Interpeduncular fossa
+Intraparietal sulcus
+Lat_Fis-ant-Horizont
+Lat_Fis-ant-Vertical
+Lat_Fis-post
+Lateral corticospinal tract
+Lateral fasciculus proprius
+Lateral geniculate body
+Lateral intermediate substance
+Lateral occipital gyrus Middle occipital gyrus
+Lateral occipitotemporal gyrus
+Lateral reticulospinal tract
+Lateral spinothalamic tract
+Lateral ventricle
+Lateral vestibulospinal tract
+Lens
+Lentiform nucleus
+Lingual gyrus
+Lingula of cerebellum
+Lunate sulcus
+Mamillary body
+Medial geniculate body
+Medial occipitotemporal gyrus Parahippocampal
+Medial reticulospinal tract
+Medial vestibulospinal tract
+Medulla oblongata
+Midbrain
+Middle frontal gyrus
+Middle temporal gyrus
+Motor nucleus of facial nerve
+Nerve to quadratus femoris muscle
+Nodule of vermis
+Nucleus ambiguus
+Nucleus of abducens nerve
+Nucleus of accessory nerve
+Nucleus of oculomotor nerve
+Nucleus of solitary tract
+Nucleus proprius
+Occipital pole
+Occipitotemporal sulcus Lateral part
+Olfactory sulcus
+Olive
+Opercular part of inferior frontal gyrus
+Optic chiasm
+Optic tract
+Orbital gyri
+Orbital gyri Frontomarginal gyrus and sulcus
+Orbital part of inferior frontal gyrus
+Orbital sulci H-shaped orbital sulci
+Orbital sulci Lateral Orbital sulcus
+Paracentral gyrus and sulcus
+Paracentral sulcus
+Parieto-occipital sulcus
+Peduncle of flocculus
+Pons
+Postcentral gyrus
+Postcentral sulcus
+Posterior commissure
+Posterior fasciculus proprius
+Posterior horn of spinal cord
+Posterior quadrangular lobule
+Posterior root of spinal nerve
+Posterior spinocerebellar tract
+Posterior transverse collateral sulcus
+Posterolateral tract
+Precentral gyrus
+Precentral sulcus Superior part
+Precentral sulcus inferior part
+Precuneus
+Putamen
+Pyramid of medulla oblongata
+Pyramis of vermis
+Red nucleus
+Rubrospinal tract
+Sclera
+Septal nuclei
+Septum pellucidum
+Spinal dura
+Spinal reticular process
+Spinotectal tract
+Straight gyrus Gyrus rectus
+Stria medullaris thalami
+Stria terminalis
+Subparietal sulcus
+Sulcus interm_prim-Jensen
+Superior cerebellar peduncle
+Superior colliculus
+Superior frontal gyrus
+Superior frontal sulcus
+Superior occipital gyri
+Superior parietal lobule
+Superior salivatory nucleus
+Superior semilunar lobule
+Superior temporal gyrus Lateral part
+Superior temporal sulcus
+Supramarginal gyrus
+Tectospinal tract
+Temporal plane
+Temporal pole
+Tentorium cerebelli
+Thalamus
+Third ventricle
+Tonsil of cerebellum
+Transverse frontopolar gyrus and sulcus
+Transverse occipital sulcus
+Transverse temporal gyri
+Triangular part of inferior frontal gyrus
+Tuber of vermis
+Uvula of vermis
+Vestibular nuclei
+Vitreous body
+White matter of spinal cord
+White matter of telencephalon
+Wing of central lobule
+Zonular fibres

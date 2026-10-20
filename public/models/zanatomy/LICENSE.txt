@@ -1,0 +1,7 @@
+Modelos 3D desta pasta: adaptados do Anatomy Atlas 3D v0.1.3
+(https://github.com/Grypa-JJ/anatomy-atlas-3d), que deriva de:
+- Z-Anatomy (https://www.z-anatomy.com/), CC BY-SA 4.0
+- BodyParts3D, (c) Database Center for Life Science (DBCLS), CC BY-SA 2.1 JP
+
+Estes arquivos e quaisquer derivados permanecem sob licença CC BY-SA
+(compartilhamento pela mesma licença, com atribuição às fontes acima).

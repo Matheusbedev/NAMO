@@ -1,0 +1,137 @@
+Accessory pancreatic duct
+Accessory parotid gland
+Adenohypophysis
+Ampulla of lacrimal canaliculus
+Anterior basal segmental bronchus of left lung BVIII
+Anterior basal segmental bronchus of right lung BVIII
+Anterior chamber of eyeball
+Anterior cochlear nucleus
+Anterior lateral segment of liver VI
+Anterior medial segment of liver V
+Anterior papillary muscle of right ventricle
+Anterior segment of eyeball
+Anterior segmental bronchus of left lung BIII
+Anterior segmental bronchus of right lung BIII
+Anterior semilunar leaflet of pulmonary valve
+Anteromedial basal segmental bronchus of left lung
+Apical segmental bronchus of right lung BI
+Apicoposterior segmental bronchus of left lung BI+BII
+Ascending colon
+Bile duct
+Cochlea
+Corpus cavernosum of penis
+Corpus spongiosum of penis
+Descending colon
+Ductus deferens
+Duodenum
+Ejaculatory duct
+Epididymis
+Epiglottis
+Free taenia
+Gallbladder
+Gingiva
+Glans penis
+Greater omentum
+Inferior leaflet of right atrioventricular valve
+Inferior lingular segmental bronchus of left lung BV
+Inferior lobe of left lung
+Inferior lobe of right lung
+Inferior papillary muscle of left ventricle
+Inferior papillary muscle of right ventricle
+Inferior parathyroid gland
+Inferior vein of left ventricle
+Inferior vein of left ventricle //Posterior ''
+Intermediate bronchus
+Iris
+Jejunum
+Kidney
+Lacrimal canaliculus
+Lacrimal gland
+Lacrimal sac
+Laryngopharynx
+Lateral basal segmental bronchus of left lung BIX
+Lateral basal segmental bronchus of right lung BIX
+Lateral segmental bronchus of right lung BIV
+Left anterior lateral segment of liver III
+Left atrium
+Left coronary leaflet
+Left inferior lobar bronchus
+Left main bronchus
+Left medial segment of liver IV
+Left posterior lateral segment of liver II
+Left semilunar leaflet of pulmonary valve
+Left superior lobar bronchus
+Left ventricle
+Lesser omentum
+Liver
+Medial basal segmental bronchus of left lung BVII
+Medial basal segmental bronchus of right lung BVII
+Medial segmental bronchus of right lung BV
+Meso-appendix
+Mesocolic taenia
+Mesocolon
+Middle lobar bronchus
+Middle lobe of right lung
+Mucosa of nasal cavity
+Mucosa of stomach
+Nasolacrimal duct
+Nasopharynx
+Neurohypophysis
+Non-coronary leaflet
+Oesophagus
+Omental taenia
+Oropharynx
+Pancreas
+Pancreatic duct
+Parotid duct
+Parotid gland
+Pineal gland
+Pleura
+Posterior basal segmental bronchus of left lung BX
+Posterior basal segmental bronchus of right lung BX
+Posterior cochlear nucleus
+Posterior lateral segment of liver VII
+Posterior leaflet of left atrioventricular valve
+Posterior medial segment of liver VIII
+Posterior segment of eyeball
+Posterior segment of liver I
+Posterior segmental bronchus of right lung BII
+Prostate
+Renal pelvis
+Retina
+Right atrium
+Right coronary leaflet
+Right inferior lobar bronchus
+Right main bronchus
+Right semilunar leaflet of pulmonary valve
+Right superior lobar bronchus
+Right ventricle
+Seminal gland
+Septal leaflet of right atrioventricular valve
+Septal papillary muscle of right ventricle
+Sigmoid colon
+Soft palate
+Stomach
+Sublingual gland
+Submandibular duct
+Submandibular gland
+Superior lingular segmental bronchus of left lung BIV
+Superior lobe of left lung
+Superior lobe of right lung
+Superior parathyroid gland
+Superior segmental bronchus of left lung BVI
+Superior segmental bronchus of right lung BVI
+Suprarenal gland
+Suspensory ligament of eyeball
+Testis
+Thyroid gland
+Tongue
+Trachea
+Transverse colon
+Tympanic membrane
+Ureter
+Urethra
+Urinary bladder
+Uvula of palate
+Vermiform appendix
+Vestibule

@@ -1,0 +1,262 @@
+Atlas
+Axis
+Distal phalanx of big toe
+Distal phalanx of fourth toe
+Distal phalanx of index finger
+Distal phalanx of little finger
+Distal phalanx of little toe
+Distal phalanx of middle finger
+Distal phalanx of ring finger
+Distal phalanx of second toe
+Distal phalanx of third toe
+Distal phalanx of thumb
+Eighth thoracic vertebra
+Eleventh thoracic vertebra
+Ethmoid
+External intercostal muscle
+Fifth cervical vertebra
+Fifth lumbar vertebra
+Fifth thoracic vertebra
+First lumbar vertebra
+First lumbrical of foot
+First plantar interosseous of foot
+First thoracic vertebra
+Flexor digiti minimi brevis of foot
+Flexor digiti minimi brevis of hand
+Fourth cervical vertebra
+Fourth lumbar vertebra
+Fourth lumbrical of foot
+Fourth thoracic vertebra
+Innermost intercostal muscle
+Internal intercostal muscle
+Lateral lumbar intertransversarius
+Medial lumbar intertransversarius
+Middle phalanx of fourth toe
+Middle phalanx of index finger
+Middle phalanx of little finger
+Middle phalanx of little toe
+Middle phalanx of middle finger
+Middle phalanx of ring finger
+Middle phalanx of second toe
+Middle phalanx of third toe
+Navicular bone of foot
+Ninth thoracic vertebra
+Opponens digiti minimi of foot
+Opponens digiti minimi of hand
+Proximal phalanx of big toe
+Proximal phalanx of fourth toe
+Proximal phalanx of index finger
+Proximal phalanx of little finger
+Proximal phalanx of little toe
+Proximal phalanx of middle finger
+Proximal phalanx of ring finger
+Proximal phalanx of second toe
+Proximal phalanx of third toe
+Proximal phalanx of thumb
+Second lumbar vertebra
+Second lumbrical of foot
+Second plantar interosseous of foot
+Second thoracic vertebra
+Sesamoid bone of foot
+Seventh cervical vertebra
+Seventh thoracic vertebra
+Sixth cervical vertebra
+Sixth thoracic vertebra
+Spinalis
+Tenth thoracic vertebra
+Third cervical vertebra
+Third lumbar vertebra
+Third lumbrical of foot
+Third plantar interosseous of foot
+Third thoracic vertebra
+Thoracic rotator
+Transverse arytenoid
+Twelfth thoracic vertebra
+Uvular muscle
+abductor hallucis
+abductor pollicis brevis
+abductor pollicis longus
+adductor brevis
+adductor longus
+adductor magnus
+adductor minimus
+anconeus
+brachialis
+brachioradialis
+calcaneus
+capitate
+cervical rotator
+clavicle
+coccygeus
+coracobrachialis
+cuboid bone
+digastric
+eighth rib
+eleventh rib
+extensor carpi radialis brevis
+extensor carpi radialis longus
+extensor carpi ulnaris
+extensor digiti minimi
+extensor digitorum
+extensor digitorum longus
+extensor hallucis brevis
+extensor hallucis longus
+extensor indicis
+extensor pollicis brevis
+extensor pollicis longus
+external oblique
+femur
+fibula
+fibularis brevis
+fibularis longus
+fibularis tertius
+fifth metacarpal bone
+fifth metatarsal bone
+fifth rib
+first metacarpal bone
+first metatarsal bone
+first rib
+flexor accessorius
+flexor carpi radialis
+flexor digitorum brevis
+flexor digitorum longus
+flexor digitorum profundus
+flexor digitorum superficialis
+flexor hallucis longus
+flexor pollicis brevis
+flexor pollicis longus
+fourth metacarpal bone
+fourth metatarsal bone
+fourth rib
+gemellus inferior
+gemellus superior
+genioglossus
+geniohyoid
+gluteus maximus
+gluteus medius
+gluteus minimus
+gracilis
+hamate
+hip bone
+humerus
+hyoglossus
+iliacus
+iliocostalis cervicis
+iliocostalis lumborum
+iliocostalis thoracis
+inferior nasal concha
+inferior oblique
+inferior pharyngeal constrictor
+inferior rectus
+infraspinatus muscle
+intermediate cuneiform bone
+interspinalis thoracis
+lacrimal bone
+lateral crico-arytenoid
+lateral cuneiform bone
+lateral rectus
+levator palpebrae superioris
+levator scapulae
+levator veli palatini
+longissimus capitis
+longissimus cervicis
+longissimus thoracis
+longus capitis
+lumbar rotator
+lunate
+maxilla
+medial cuneiform bone
+medial rectus
+middle pharyngeal constrictor
+mylohyoid
+nasal bone
+ninth rib
+oblique arytenoid
+obliquus capitis inferior
+obliquus capitis superior
+obturator externus
+obturator internus
+omohyoid
+opponens pollicis
+palatine bone
+palatopharyngeus
+palmaris longus
+parietal bone
+patella
+pectineus
+pectoralis minor
+piriformis
+pisiform
+plantaris
+platysma
+popliteus
+posterior crico-arytenoid
+pronator quadratus
+psoas major
+quadratus femoris
+radius
+rectus capitis anterior
+rectus capitis lateralis
+rectus capitis posterior major
+rectus capitis posterior minor
+rhomboid major
+rhomboid minor
+salpingopharyngeus
+sartorius
+scalenus anterior
+scalenus medius
+scalenus posterior
+scaphoid
+scapula
+second metacarpal bone
+second metatarsal bone
+second rib
+semimembranosus
+semispinalis capitis
+semispinalis cervicis
+semispinalis thoracis
+semitendinosus
+serratus anterior
+serratus posterior inferior
+serratus posterior superior
+seventh rib
+sixth rib
+soleus
+spinalis thoracis
+splenius capitis
+splenius cervicis
+sternocleidomastoid
+sternohyoid
+sternothyroid
+stylohyoid
+stylopharyngeus
+subclavius
+subscapularis
+superior oblique
+superior pharyngeal constrictor
+superior rectus
+supinator
+supraspinatus
+talus
+temporal bone
+tensor fasciae latae
+tensor veli palatini
+tenth rib
+teres major
+teres minor
+third metacarpal bone
+third metatarsal bone
+third rib
+thyro-arytenoid
+thyrohyoid
+tibia
+tibialis anterior
+tibialis posterior
+transversus thoracis
+trapezium
+trapezoid
+triquetral
+twelfth rib
+ulna
+vocalis
+zygomatic bone

@@ -1,0 +1,21 @@
+{
+  "name": "anato-da-mari",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "data": "python tools/build_models.py",
+    "data:zanatomy": "node tools/build_zanatomy.mjs",
+    "data:pt": "node tools/translate_bp3d.mjs && node tools/build_zanatomy.mjs",
+    "check": "node tools/check_data.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "vite": "7.1.9"
+  }
+}
