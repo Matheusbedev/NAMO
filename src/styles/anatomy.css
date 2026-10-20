@@ -82,7 +82,18 @@ output { color: var(--text); }
 .an-spinner { width: 36px; height: 36px; border: 3px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: an-spin 1s linear infinite; }
 @keyframes an-spin { to { transform: rotate(360deg); } }
 .an-error { color: #ffb4a8; }
-.an-credit { position: absolute; right: 8px; bottom: 4px; margin: 0; font-size: 11px; color: var(--muted); }
+.an-credit { position: absolute; right: 8px; bottom: 4px; margin: 0; font-size: 11px; color: var(--muted); z-index: 4; }
+.anatomy .an-credit-btn { background: none; border: 0; color: var(--muted); text-decoration: underline; padding: 0; font: inherit; cursor: pointer; }
+.anatomy .an-credit-btn:hover { color: var(--text); }
+.an-credit-box {
+  position: absolute; right: 8px; bottom: 26px; z-index: 6; width: min(340px, calc(100% - 16px));
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .5); font-size: 12px; line-height: 1.5; color: var(--muted);
+}
+.an-credit-box[hidden] { display: none; }
+.an-credit-box h3 { margin: 0 0 8px; font-size: 14px; color: var(--text); }
+.an-credit-box p { margin: 0 0 8px; }
+.an-credit-box .an-credit-close { position: absolute; top: 6px; right: 6px; }
 
 .an-ficha-head { display: flex; align-items: flex-start; gap: 6px; }
 .an-ficha-head > div { flex: 1; }
@@ -163,6 +174,7 @@ output { color: var(--text); }
   }
   .an-ficha-head h2 { font-size: 18px; }
   .an-credit { left: 8px; right: 8px; text-align: center; bottom: calc(4px + env(safe-area-inset-bottom)); }
+  .an-credit-box { left: 8px; right: 8px; width: auto; bottom: calc(26px + env(safe-area-inset-bottom)); }
   .anatomy.is-clean { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { .an-right, .an-left, .an-spinner { transition: none; animation: none; } }

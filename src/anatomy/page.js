@@ -373,6 +373,15 @@ export function mountAnatomy(root) {
   });
   $('#an-clear-hist').addEventListener('click', () => { store.clearHistory(); renderList(); });
 
+  const creditBox = $('#an-credit-box');
+  const toggleCredit = (on) => {
+    const open = on ?? creditBox.hidden;
+    creditBox.hidden = !open;
+    $('#an-credit-btn').setAttribute('aria-expanded', String(open));
+  };
+  $('#an-credit-btn').addEventListener('click', () => toggleCredit());
+  creditBox.querySelector('.an-credit-close').addEventListener('click', () => toggleCredit(false));
+
   $('#an-ficha').addEventListener('click', (e) => {
     const act = e.target.closest('[data-act]')?.dataset.act;
     const id = state.selectedId;
@@ -562,7 +571,15 @@ function template(modelId, model) {
       <div id="an-tip" class="an-tip" hidden></div>
       <div id="an-loading" class="an-loading" aria-live="polite"></div>
       <div id="an-layer-loading" class="an-layer-loading" role="status" hidden></div>
-      <p class="an-credit">${model.credit}</p>
+      <p class="an-credit"><button type="button" id="an-credit-btn" class="an-credit-btn" aria-expanded="false">Créditos e licença</button> · feito por Matheus Augusto</p>
+      <div id="an-credit-box" class="an-credit-box" hidden>
+        <button type="button" class="an-icon-btn an-credit-close" aria-label="Fechar">✕</button>
+        <h3>Créditos e licença</h3>
+        <p>${model.credit}</p>
+        <p>Modelos 3D sob licença <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR" target="_blank" rel="noopener">CC BY-SA</a>, herdada de <a href="https://www.z-anatomy.com/" target="_blank" rel="noopener">Z-Anatomy</a> e <a href="https://dbarchive.biosciencedbc.jp/en/bodyparts3d/" target="_blank" rel="noopener">BodyParts3D</a> © DBCLS. Nomes em português conforme a <em>Terminologia Anatômica</em> (SBA/FIPAT). Visualizador em <a href="https://threejs.org" target="_blank" rel="noopener">three.js</a> (MIT) com decodificador <a href="https://google.github.io/draco/" target="_blank" rel="noopener">Draco</a> (Apache-2.0).</p>
+        <p class="an-muted">Material de apoio ao estudo. Confira sempre com a bibliografia da sua disciplina.</p>
+        <p class="an-muted">Desenvolvido por Matheus Augusto.</p>
+      </div>
     </div>
 
     <aside id="an-ficha" class="an-panel an-right" aria-live="polite" aria-labelledby="an-ficha-title"></aside>
